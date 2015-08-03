@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/operation-orion/issues"
   },
-  "homepage": "https://github.com/AgtLucas/operation-orion#readme"
+  "homepage": "https://github.com/AgtLucas/operation-orion#readme",
+  "dependencies": {
+    "flux": "^2.0.3",
+    "jwt-decode": "^1.4.0",
+    "react": "^0.13.3",
+    "react-mixin": "^1.7.0",
+    "react-router": "^0.13.3",
+    "reqwest": "^2.0.1",
+    "when": "^3.7.3"
+  }
 }
